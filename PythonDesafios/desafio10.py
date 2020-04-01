@@ -1,5 +1,5 @@
-'''Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares'''
-'''ela pode comprar. Considere US$ 3.27 = 1.00 real.'''
+"""Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares"""
+"""ela pode comprar. Considere US$ 3.27 = 1.00 real."""
 money = float(input('Quantos taokeys vc tem nessa carteira amadah? R$'))
 trumps = 3.27
 doletas = money/trumps
